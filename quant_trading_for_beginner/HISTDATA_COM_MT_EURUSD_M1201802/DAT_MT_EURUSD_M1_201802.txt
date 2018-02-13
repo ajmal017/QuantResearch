@@ -1,0 +1,10 @@
+HistData.com (c) 2012
+File: DAT_MT_EURUSD_M1_201802.csv Status Report
+
+Gap of 63s found between 20180204235037 and 20180204235146.
+Gap of 60s found between 20180205165957 and 20180205170103.
+Gap of 76s found between 20180206174546 and 20180206174709.
+Gap of 64s found between 20180208164749 and 20180208164900.
+
+Average tick interval: 5239 miliseconds.
+Maximum tick interval found: 76250 miliseconds.
